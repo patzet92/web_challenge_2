@@ -248,7 +248,7 @@ img[src="gallery_5.png"]{
     margin-left: 14px;
 }
 
-input[value="VIEW MORE"]{
+.gallery input[value="VIEW MORE"]{
     background-color: #5585a2;
     border: none;
     color: white;
@@ -391,13 +391,15 @@ img[src="3day.png"]{
     right: -5px;
 }
 
-input[value="VIEW MORE"] {
+.blog input[value="VIEW MORE"] {
     width: 200px;
     height: 55px;
     background-color: #f72b3b;
+    color: white;
     border: none;
     position: absolute;
-    top: 5376px;
+    top: 5409px;
+    left: 565px;
 }
 .contact {
     background-image: url(./contact_bg.png);
